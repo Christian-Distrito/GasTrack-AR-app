@@ -1,0 +1,11 @@
+{
+    "name": "Unity38bd31b8168247d14fcf.ARFoundation.Tests",
+    "references": [
+        "Unity38bd31b8168247d14fcf.ARFoundation"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

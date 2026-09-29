@@ -1,0 +1,10 @@
+{
+    "name": "Unity38bd31b8168247d14fcf.ARFoundation.Editor",
+    "references": [
+      "Unity38bd31b8168247d14fcf.ARFoundation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

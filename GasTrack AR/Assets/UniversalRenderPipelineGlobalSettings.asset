@@ -72,7 +72,21 @@ MonoBehaviour:
       - rid: 1549617008884056100
       - rid: 1549617008884056101
     m_RuntimeSettings:
-      m_List: []
+      m_List:
+      - rid: 1549617008884056064
+      - rid: 1549617008884056067
+      - rid: 1549617008884056069
+      - rid: 1549617008884056075
+      - rid: 1549617008884056077
+      - rid: 1549617008884056079
+      - rid: 1549617008884056082
+      - rid: 1549617008884056084
+      - rid: 1549617008884056086
+      - rid: 1549617008884056089
+      - rid: 1549617008884056094
+      - rid: 1549617008884056095
+      - rid: 1549617008884056096
+      - rid: 1549617008884056097
   m_AssetVersion: 11
   m_ObsoleteDefaultVolumeProfile: {fileID: 0}
   m_RenderingLayerNames:
@@ -155,7 +169,7 @@ MonoBehaviour:
       type: {class: URPShaderStrippingSetting, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_Version: 0
-        m_StripUnusedPostProcessingVariantsAndResources: 0
+        m_StripUnusedPostProcessingVariantsAndResources: 1
         m_StripUnusedVariants: 1
         m_StripScreenCoordOverrideVariants: 1
         m_Strip2DUnusedVariants: 0
@@ -392,8 +406,8 @@ MonoBehaviour:
       type: {class: RenderGraphGlobalSettings, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
         m_version: 0
-        m_EnableCompilationCaching: 1
-        m_EnableValidityChecks: 1
+        m_EnableCompilationCaching: 0
+        m_EnableValidityChecks: 0
     - rid: 1549617008884056096
       type: {class: VrsRenderPipelineRuntimeResources, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
